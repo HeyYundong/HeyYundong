@@ -25,8 +25,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeyYundong&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyYundong&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyYundong&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 ---
